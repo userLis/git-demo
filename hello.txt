@@ -6,3 +6,4 @@ wwwwwhot-fix test
 11111
 修改
 ssh成功
+测试同步
